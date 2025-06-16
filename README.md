@@ -3,6 +3,7 @@
 _____________________________________________________________________________________________________
 # USO 
 $ chmod +x script.sh
+
 $ ./script.sh
 
 # Vale ressaltar que não coloquei linhas que respeitam estrutura de email. Caso necessite desse formato recomendo que adicione as linhas. 
