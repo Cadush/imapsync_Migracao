@@ -1,5 +1,6 @@
-# Script criado para auxiliar na mirgração de contas para o zimbra.
-# O padrão usado no script deixei como locaweb, podendo ser alterado para o seu servidor de origem específico da sua realdiade. 
+# INFO
+Script criado para auxiliar na mirgração de contas para o zimbra.
+O padrão usado no script deixei como locaweb, podendo ser alterado para o seu servidor de origem específico da sua realdiade. 
 _____________________________________________________________________________________________________
 # USO 
 $ chmod +x script.sh
