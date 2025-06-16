@@ -6,6 +6,8 @@ $ chmod +x script.sh
 
 $ ./script.sh
 
-# Vale ressaltar que não coloquei linhas que respeitam estrutura de email. Caso necessite desse formato recomendo que adicione as linhas. 
--
+# Obs
+Vale ressaltar que não coloquei linhas que respeitam estrutura de email. Caso necessite desse formato recomendo que adicione as linhas. 
+
+
 Script de referência foi o da própria documentação. Caso tenham sugestões fico a disposição !
