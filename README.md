@@ -1,14 +1,12 @@
-# INFO
-Script criado para auxiliar na mirgração de contas para o zimbra.
-O padrão usado no script deixei como locaweb, podendo ser alterado para o seu servidor de origem específico da sua realdiade. 
+🧠 INFO
+Este script foi criado para auxiliar na migração de contas de e-mail para o Zimbra.
+
+O padrão utilizado no script foi baseado na Locaweb, mas pode ser facilmente adaptado para outros servidores de origem conforme a realidade do seu ambiente.
 _____________________________________________________________________________________________________
-# USO 
+💻 USO 
 $ chmod +x script.sh
 
 $ ./script.sh
 
-# Obs
-Vale ressaltar que não coloquei linhas que respeitam estrutura de email. Caso necessite desse formato recomendo que adicione as linhas. 
-
-
+📌 Obs
 Script de referência foi o da própria documentação. Caso tenham sugestões fico a disposição !
